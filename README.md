@@ -1,0 +1,1 @@
+These files are useful for generating a large number of models of masonry and non-masonry structures and performing pushover analysis. Additionally, some specific parameters can be changed such as concrete strength, mortar strength, block strength, openings in masonry and a random generation of the parameters mentioned above.
